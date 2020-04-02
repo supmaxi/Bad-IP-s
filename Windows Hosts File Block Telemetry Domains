@@ -162,12 +162,6 @@
 0.0.0.0 livetileedge.dsx.mp.microsoft.com
 0.0.0.0 s0.2mdn.net
 0.0.0.0 view.atdmt.com
-0.0.0.0 m.hotmail.com
-0.0.0.0 apps.skype.com
-0.0.0.0 c.msn.com
-0.0.0.0 pricelist.skype.com
-0.0.0.0 s.gateway.messenger.live.com
-0.0.0.0 ui.skype.com
 #0.0.0.0 a248.e.akamai.net                        # may cause iTunes download button disappear
 #0.0.0.0 settings-win.data.microsoft.com          # may cause issues with Windows Updates
 #0.0.0.0 sls.update.microsoft.com.nsatc.net       # may cause issues with Windows Updates

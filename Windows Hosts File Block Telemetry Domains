@@ -1,5 +1,4 @@
 # READY TO USE FILE -- JUST COPY AND PASTE
-# SEE BOTTOM OF LIST TO OPTIONALLY ENABLE ADDITIONAL DOMAINS BY REMOVING THE '#'
 #
 # Copyright (c) 1993-2009 Microsoft Corp.
 #
@@ -162,15 +161,126 @@
 0.0.0.0 livetileedge.dsx.mp.microsoft.com
 0.0.0.0 s0.2mdn.net
 0.0.0.0 view.atdmt.com
-#0.0.0.0 a248.e.akamai.net                        # may cause iTunes download button disappear
-#0.0.0.0 settings-win.data.microsoft.com          # may cause issues with Windows Updates
-#0.0.0.0 sls.update.microsoft.com.nsatc.net       # may cause issues with Windows Updates
-#0.0.0.0 wdcp.microsoft.com                       # may cause issues with Windows Defender Cloud-based protection
-#0.0.0.0 dns.msftncsi.com                         # This causes Windows to think it doesn't have internet
-#0.0.0.0 storeedgefd.dsx.mp.microsoft.com         # breaks Windows Store
-#0.0.0.0 sls.update.microsoft.com                 # may cause issues with Windows Updates
-#0.0.0.0 www.google-analytics.com                 # other
-#0.0.0.0 padgead2.googlesyndication.com           # other
-#0.0.0.0 mirror1.malwaredomains.com               # other
-#0.0.0.0 mirror.cedia.org.ec                      # other
-    
+0.0.0.0 a248.e.akamai.net
+0.0.0.0 settings-win.data.microsoft.com
+0.0.0.0 sls.update.microsoft.com.nsatc.net
+0.0.0.0 wdcp.microsoft.com
+0.0.0.0 storeedgefd.dsx.mp.microsoft.com
+0.0.0.0 sls.update.microsoft.com
+0.0.0.0 www.google-analytics.com
+0.0.0.0 padgead2.googlesyndication.com
+0.0.0.0 mirror1.malwaredomains.com
+0.0.0.0 mirror.cedia.org.ec
+0.0.0.0 dc.applicationinsights.azure.com
+0.0.0.0 dc.applicationinsights.microsoft.com
+0.0.0.0 dc.services.visualstudio.com
+0.0.0.0 www.vortex.data.microsoft.com
+0.0.0.0 www.vortex-win.data.microsoft.com
+0.0.0.0 www.telecommand.telemetry.microsoft.com
+0.0.0.0 www.telecommand.telemetry.microsoft.com.nsatc.net
+0.0.0.0 www.oca.telemetry.microsoft.com
+0.0.0.0 www.oca.telemetry.microsoft.com.nsatc.net
+0.0.0.0 www.sqm.telemetry.microsoft.com
+0.0.0.0 www.sqm.telemetry.microsoft.com.nsatc.net
+0.0.0.0 www.watson.telemetry.microsoft.com
+0.0.0.0 www.watson.telemetry.microsoft.com.nsatc.net
+0.0.0.0 www.redir.metaservices.microsoft.com
+0.0.0.0 www.choice.microsoft.com
+0.0.0.0 www.choice.microsoft.com.nsatc.net
+0.0.0.0 www.df.telemetry.microsoft.com
+0.0.0.0 www.reports.wes.df.telemetry.microsoft.com
+0.0.0.0 www.wes.df.telemetry.microsoft.com
+0.0.0.0 www.services.wes.df.telemetry.microsoft.com
+0.0.0.0 www.sqm.df.telemetry.microsoft.com
+0.0.0.0 www.telemetry.microsoft.com
+0.0.0.0 www.watson.ppe.telemetry.microsoft.com
+0.0.0.0 www.telemetry.appex.bing.net
+0.0.0.0 www.telemetry.urs.microsoft.com
+0.0.0.0 www.urs.microsoft.com
+0.0.0.0 www.bing.com
+0.0.0.0 www.telemetry.appex.bing.net:443
+0.0.0.0 www.settings-sandbox.data.microsoft.com
+0.0.0.0 www.vortex-sandbox.data.microsoft.com
+0.0.0.0 www.survey.watson.microsoft.com
+0.0.0.0 www.watson.live.com
+0.0.0.0 www.watson.microsoft.com
+0.0.0.0 www.statsfe2.ws.microsoft.com
+0.0.0.0 www.corpext.msitadfs.glbdns2.microsoft.com
+0.0.0.0 www.compatexchange.cloudapp.net
+0.0.0.0 www.cs1.wpc.v0cdn.net
+0.0.0.0 www.a-0001.a-msedge.net
+0.0.0.0 www.statsfe2.update.microsoft.com.akadns.net
+0.0.0.0 www.sls.update.microsoft.com.akadns.net
+0.0.0.0 www.fe2.update.microsoft.com.akadns.net
+0.0.0.0 www.diagnostics.support.microsoft.com
+0.0.0.0 www.corp.sts.microsoft.com
+0.0.0.0 www.statsfe1.ws.microsoft.com
+0.0.0.0 www.pre.footprintpredict.com
+0.0.0.0 www.i1.services.social.microsoft.com
+0.0.0.0 www.i1.services.social.microsoft.com.nsatc.net
+0.0.0.0 www.feedback.windows.com
+0.0.0.0 www.feedback.microsoft-hohm.com
+0.0.0.0 www.feedback.search.microsoft.com
+0.0.0.0 www.public-family.api.account.microsoft.com
+0.0.0.0 www.adnxs.com
+0.0.0.0 www.c.msn.com
+0.0.0.0 www.g.msn.com
+0.0.0.0 www.h1.msn.com
+0.0.0.0 www.msedge.net
+0.0.0.0 www.rad.msn.com
+0.0.0.0 www.ads.msn.com
+0.0.0.0 www.adnexus.net
+0.0.0.0 www.ac3.msn.com
+0.0.0.0 www.c.atdmt.com
+0.0.0.0 www.m.adnxs.com
+0.0.0.0 www.sO.2mdn.net
+0.0.0.0 www.ads1.msn.com
+0.0.0.0 www.ec.atdmt.com
+0.0.0.0 www.flex.msn.com
+0.0.0.0 www.rad.live.com
+0.0.0.0 www.ui.skype.com
+0.0.0.0 www.msftncsi.com
+0.0.0.0 www.a-msedge.net
+0.0.0.0 www.a.rad.msn.com
+0.0.0.0 www.b.rad.msn.com
+0.0.0.0 www.cdn.atdmt.com
+0.0.0.0 www.m.hotmail.com
+0.0.0.0 www.ads1.msads.net
+0.0.0.0 www.a.ads1.msn.com
+0.0.0.0 www.a.ads2.msn.com
+0.0.0.0 www.apps.skype.com
+0.0.0.0 www.b.ads1.msn.com
+0.0.0.0 www.view.atdmt.com
+0.0.0.0 www.preview.msn.com
+0.0.0.0 www.aidps.atdmt.com
+0.0.0.0 www.static.2mdn.net
+0.0.0.0 www.a.ads2.msads.net
+0.0.0.0 www.b.ads2.msads.net
+0.0.0.0 www.db3aqu.atdmt.com
+0.0.0.0 www.secure.adnxs.com
+0.0.0.0 www.www.msftncsi.com
+0.0.0.0 www.live.rads.msn.com
+0.0.0.0 www.ad.doubleclick.net
+0.0.0.0 www.bs.serving-sys.com
+0.0.0.0 www.pricelist.skype.com
+0.0.0.0 www.a-0002.a-msedge.net
+0.0.0.0 www.a-0003.a-msedge.net
+0.0.0.0 www.a-0004.a-msedge.net
+0.0.0.0 www.a-0005.a-msedge.net
+0.0.0.0 www.a-0006.a-msedge.net
+0.0.0.0 www.a-0007.a-msedge.net
+0.0.0.0 www.a-0008.a-msedge.net
+0.0.0.0 www.a-0009.a-msedge.net
+0.0.0.0 www.aka-cdn-ns.adtech.de
+0.0.0.0 www.cds26.ams9.msecn.net
+0.0.0.0 www.lb1.www.ms.akadns.net
+0.0.0.0 www.az361816.vo.msecnd.net
+0.0.0.0 www.az512334.vo.msecnd.net
+0.0.0.0 www.msntest.serving-sys.com
+0.0.0.0 www.secure.flashtalking.com
+0.0.0.0 www.s.gateway.messenger.live.com
+0.0.0.0 www.schemas.microsoft.akadns.net
+0.0.0.0 www.settings-win.data.microsoft.com
+0.0.0.0 www.msnbot-65-55-108-23.search.msn.com
+0.0.0.0 www.vortex-bn2.metron.live.com.nsatc.net
+0.0.0.0 www.vortex-cy2.metron.live.com.nsatc.net

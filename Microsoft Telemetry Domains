@@ -162,7 +162,7 @@ c.msn.com
 pricelist.skype.com
 s.gateway.messenger.live.com
 ui.skype.com
-#settings-win.data.microsoft.com          # may cause issues with Windows Updates
+settings-win.data.microsoft.com
 #sls.update.microsoft.com.nsatc.net       # may cause issues with Windows Updates
 #sls.update.microsoft.com                 # may cause issues with Windows Updates
 #wdcp.microsoft.com                       # may cause issues with Windows Defender Cloud-based protection

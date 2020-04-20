@@ -1,12 +1,16 @@
 ###
 #Get the latest up-to-date list from: https://www.matthewroberts.io/api/threatlist/latest
 #Source= https://www.matthewroberts.io/
-#About= https://www.matthewroberts.io/about.html
+#About= https://www.matthewroberts.io/threatlist.html
+#Author= https://www.matthewroberts.io/about.html
 ###
 
 #List below is from 20-04-2020
 #Get the latest feed by visiting the link above
+#This API aggregates a number of IP blacklists including malware hosts, attackers, botnets, and spam. 
+#The list is updated daily and historic data is available. Individual domains can also be checked against the list of IPs.
 
+#Note that the list is aggressive and can include tens of thousands of IPs each day.
 
 1.2.236.214
 1.4.181.133

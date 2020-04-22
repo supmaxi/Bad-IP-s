@@ -1,7 +1,9 @@
+# Complete Windows 10 Privacy/Security Guide here: https://www.reddit.com/r/privacytoolsIO/comments/fwgvsb/windows_10_best_privacy_practices/
+
 # Bad-IP-s
 Collection of Bad IP Addresses to add to your Privacy/Security Firewall Block List
 
-Other popular reputable blocklists:
+# Other popular reputable blocklists:
 
 ET fwip
 https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt
@@ -32,15 +34,3 @@ https://firebog.net/
 
 Firehol
 https://iplists.firehol.org/
-
-#P2P Anti Piracy Block List (can break normal sites - good for torrenters only - prevent receiving a DMCA letter for piracy - see here for info https://gist.github.com/shmup/29566c5268569069c256 ): 
-
-https://john.bitsurge.net/public/biglist.p2p.gz
-
-#P2P Anti Piracy Block List (can break normal sites - good for torrenters only - prevent receiving a DMCA letter for piracy - see here for info https://gist.github.com/shmup/29566c5268569069c256 ): 
-
-https://github.com/Naunter/BT_BlockLists/raw/master/bt_blocklists.gz
-
-#P2P Anti Piracy Block List (can break normal sites - good for torrenters only - prevent receiving a DMCA letter for piracy - see here for info https://gist.github.com/shmup/29566c5268569069c256 ): 
-
-https://github.com/sahsu/transmission-blocklist/releases/latest/download/blocklist.gz

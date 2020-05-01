@@ -1,5 +1,5 @@
 #Edgecast Networks Asia Pacific
-#Removed as it breaks dropbox client 117dot18dot237dot29
+#117 dot 18 dot 237 dot 29 #Digicert certificate validation
 117.18.232.240
 117.18.237.97
 152.195.11.6
@@ -22,6 +22,7 @@
 
 #AKAMAI Technologies
 23.192.239.113
+23.63.232.160
 
 #Telstra Global
 210.176.156.25
@@ -92,6 +93,7 @@ mx0b-00190b01.pphosted.com
 127.1.2.3
 
 #HighWinds Network Group
+151.139.128.14
 
 #StackPath LLC
 151.139.128.10
@@ -216,8 +218,10 @@ megan.onyphe.io
 110.143.38.169
 
 #AussieBroadband Australia
-121.200.1.12
 119.17.128.165
+121.200.1.12
+121.200.1.13
+180.150.2.140
 
 #iiNET Australia
 180.200.129.213
@@ -267,6 +271,7 @@ megan.onyphe.io
 45.141.84.15
 141.98.81.138
 194.26.29.212
+152.199.23.241
 195.68.251.139
 89.248.167.141
 45.227.254.30
@@ -319,6 +324,9 @@ megan.onyphe.io
 54.153.251.125
 54.66.123.116
 52.10.33.105
+52.85.43.54
+52.35.14.243
+34.213.76.134
 
 #Verisign Global Registry Services Compromised
 192.5.6.30

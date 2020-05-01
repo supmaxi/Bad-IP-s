@@ -1,36 +1,24 @@
 # Complete Windows 10 Privacy/Security Guide here: https://www.reddit.com/r/privacytoolsIO/comments/fwgvsb/windows_10_best_privacy_practices/
 
 # Bad-IP-s
-Collection of Bad IP Addresses to add to your Privacy/Security Firewall Block List
+Collection of Bad IP Addresses / domains / lists to add to your Privacy/Security Firewall Block List
 
-# Other popular reputable blocklists:
+# 3rd Party Blocklists (my personal favourites):
 
-ET fwip
-https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt
-
-ET Compromised
-https://rules.emergingthreats.net/blockrules/compromised-ips.txt
-
-CI Army
-http://cinsscore.com/list/ci-badguys.txt
-
-DShield
-http://feeds.dshield.org/block.txt
-
-Tor Nodes
-https://www.dan.me.uk/torlist/
-
-Ransomware Tracker
-https://ransomwaretracker.abuse.ch/downloads/RW_IPBL.txt
-
-Talos
+Cisco Talos
 http://talosintel.com/feeds/ip-filter.blf
 
 Alienvault
 https://reputation.alienvault.com/reputation.generic
+ 
+matthewroberts.io
+https://www.matthewroberts.io/api/threatlist/latest
 
-Firebog
-https://firebog.net/
+ThreatIntel
+https://threatintel.stdominics.sa.edu.au/
 
-Firehol
-https://iplists.firehol.org/
+quidsup anti-track
+https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
+
+IPSUM
+https://github.com/stamparm/ipsum/blob/master/ipsum.txt?raw=true

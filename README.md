@@ -5,20 +5,23 @@ Collection of Bad IP Addresses / domains / lists to add to your Privacy/Security
 
 # 3rd Party Blocklists (my personal favourites):
 
-Cisco Talos
+Cisco Talos (Daily-Update API)
 http://talosintel.com/feeds/ip-filter.blf
 
-Alienvault
+Alienvault (Daily-Update API)
 https://reputation.alienvault.com/reputation.generic
  
-matthewroberts.io
+matthewroberts.io (Daily-Update API)
 https://www.matthewroberts.io/api/threatlist/latest
 
-ThreatIntel
+ThreatIntel (Daily-Update API)
 https://threatintel.stdominics.sa.edu.au/
 
-quidsup anti-track
+quidsup anti-track (Manually Updated by Author)
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
 
-IPSUM
+IPSUM (Daily-Update API)
 https://github.com/stamparm/ipsum/blob/master/ipsum.txt?raw=true
+
+Blackbook Malware Domains (Daily-Update API)
+https://raw.githubusercontent.com/stamparm/blackbook/master/blackbook.txt

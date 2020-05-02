@@ -1,3 +1,7 @@
+#This list includes manually added IPs of suspicious nature. 
+#May have a false positive from time to time, swiftly updated if an ip causes something to break.
+#Also includes IPs of known vulnerability scanners honeypots etc
+
 #Edgecast Networks Asia Pacific
 #117 dot 18 dot 237 dot 29 #Digicert certificate validation
 117.18.232.240
@@ -397,8 +401,15 @@ megan.onyphe.io
 192.0.78.23
 192.0.73.2
 
-#NVIDIA
+#NVIDIA Telemetry
 8.36.113.141
+8.36.80.252
+8.36.80.197
+8.36.80.224
+8.36.113.118
+8.36.113.169
+8.36.112.63
+8.36.112.102
 
 #VERIZON
 152.195.56.209

@@ -25,3 +25,6 @@ https://github.com/stamparm/ipsum/blob/master/ipsum.txt?raw=true
 
 Blackbook Malware Domains (Daily-Update API)
 https://raw.githubusercontent.com/stamparm/blackbook/master/blackbook.txt
+
+Bad Packets
+https://github.com/tg12/bad_packets_blocklist/raw/master/bad_packets_list.txt

@@ -1,6 +1,32 @@
-#This list includes manually added IPs of suspicious nature. 
+#EXPERIMENTAL
+#USE IN TEST ENVIRONMENT FIRST -  BEFORE SENDING TO PRODUCTION
+
+#This list includes manually added IPs of suspicious nature
 #May have a false positive from time to time, swiftly updated if an ip causes something to break.
 #Also includes IPs of known vulnerability scanners honeypots etc
+
+#Link Local Block
+169.254.0.0-169.254.255.255
+
+#Private Use
+172.16.0.0-172.31.255.255
+172.16.0.0/12
+192.0.0.0-192.0.0.255
+
+#6to4 Relay Anycast
+192.88.99.0-192.88.99.255
+
+#Loopback
+127.0.0.2-127.255.255.255
+127.1.2.3
+
+#Multicast
+239.255.255.250
+239.255.255.251
+255.255.255.0
+255.255.255.255
+224.0.0.251
+224.0.0.252
 
 #Edgecast Networks Asia Pacific
 #117 dot 18 dot 237 dot 29 #Digicert certificate validation
@@ -81,21 +107,6 @@ mx0b-00190b01.pphosted.com
 101.119.56.250
 202.81.67.4
 
-#Link Local Block
-169.254.0.0-169.254.255.255
-
-#Private Use
-172.16.0.0-172.31.255.255
-172.16.0.0/12
-192.0.0.0-192.0.0.255
-
-#6to4 Relay Anycast
-192.88.99.0-192.88.99.255
-
-#Loopback
-127.0.0.2-127.255.255.255
-127.1.2.3
-
 #HighWinds Network Group
 151.139.128.14
 
@@ -159,14 +170,6 @@ megan.onyphe.io
 195.154.62.232/32
 195.154.63.222/32
 51.15.181.173/32
-
-#Multicast
-239.255.255.250
-239.255.255.251
-255.255.255.0
-255.255.255.255
-224.0.0.251
-224.0.0.252
 
 #Fixed Line Hackers
 119.17.218.205

@@ -4,6 +4,20 @@
 # Hosts File Location = C:\Windows\System32\Drivers\etc\hosts
 
 
+ceuswatcab01.blob.core.windows.net
+ceuswatcab02.blob.core.windows.net
+eaus2watcab01.blob.core.windows.net
+eaus2watcab02.blob.core.windows.net
+weus2watcab01.blob.core.windows.net
+weus2watcab02.blob.core.windows.net
+v10c.events.data.microsoft.com
+v10.events.data.microsoft.com
+v10.vortex-win.data.microsoft.com
+aka.ms
+graph.windows.net
+umwatsonc.events.data.microsoft.com
+kmwatsonc.events.data.microsoft.com
+v20.events.data.microsoft.com
 footprintdns.com
 fp.msedge.net
 184-86-53-99.deploy.static.akamaitechnologies.com

@@ -71,8 +71,15 @@
 
 #Microsoft Azure Related Blocks Begin Below (Remote Connection for analytics, virtual computing, Group Sharing, peering etc)
 
+2a01:111:2005:5:0:0:0:5
+2a01:111:2006:c:0:0:0:5
+2a01:111:2020:3:0:0:0:6
+2a01:111:2032:1:0:0:0:5
 40.90.137.125
 204.79.195.43
+204.79.195.48
+65.55.117.43
+65.55.117.48
 
 #Singapore
 52.139.233.0-52.139.233.255

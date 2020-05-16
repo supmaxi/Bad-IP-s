@@ -33,7 +33,8 @@ lists_to_agg = [
     "http://talosintel.com/feeds/ip-filter.blf",
     "https://reputation.alienvault.com/reputation.generic",
     "https://www.matthewroberts.io/api/threatlist/latest",
-    "https://threatintel.stdominics.sa.edu.au/",
+    "https://threatintel.stdominics.sa.edu.au/droplist_high_confidence.txt",
+    "https://threatintel.stdominics.sa.edu.au/droplist_low_confidence.txt",
     "https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt",
     "https://github.com/stamparm/ipsum/blob/master/ipsum.txt?raw=true",
     "https://raw.githubusercontent.com/stamparm/blackbook/master/blackbook.txt"]

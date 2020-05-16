@@ -14,8 +14,11 @@ https://reputation.alienvault.com/reputation.generic
 matthewroberts.io (Daily-Update API)
 https://www.matthewroberts.io/api/threatlist/latest
 
-ThreatIntel (Daily-Update API)
-https://threatintel.stdominics.sa.edu.au/
+ThreatIntel High Confidence (Daily-Update API)
+https://threatintel.stdominics.sa.edu.au/droplist_high_confidence.txt
+
+ThreatIntel Low Confidence (Daily-Update API)
+https://threatintel.stdominics.sa.edu.au/droplist_low_confidence.txt
 
 quidsup anti-track (Manually Updated by Author)
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt

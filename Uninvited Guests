@@ -29,7 +29,8 @@
 224.0.0.252
 
 #Edgecast Networks Asia Pacific
-#117 dot 18 dot 237 dot 29 #Digicert certificate validation
+#117.18.237.29 #Digicert certificate validation
+#117.18.232.200 #Need to check
 117.18.232.240
 117.18.237.97
 152.195.11.6
@@ -78,6 +79,8 @@ mx0b-00190b01.pphosted.com
 
 #Unwanted DNS
 223.5.5.5
+168.95.1.2
+168.95.1.1
 45.86.180.227
 185.162.93.213
 116.203.6.218

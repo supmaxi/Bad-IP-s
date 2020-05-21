@@ -45,12 +45,6 @@
 #Cloudflare
 104.18.25.243
 
-#Facebook
-157.240.8.13
-157.240.8.18
-157.240.8.19
-157.240.8.23
-
 #SoftLayer Technologies # IBM
 169.44.99.105
 
@@ -121,7 +115,10 @@ mx0b-00190b01.pphosted.com
 
 #Facebook
 157.240.8.13
-157.240.8.35
+#157.240.8.35 #cant access fb website
+157.240.8.18
+157.240.8.19
+157.240.8.23
 
 #DigitalOcean
 206.189.181.12
